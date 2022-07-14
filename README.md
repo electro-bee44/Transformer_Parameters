@@ -3,9 +3,16 @@ This project is a simple GUI python based application(.exe). It is designed usin
 
 This application takes readings of the Wattmeter, Ammeter and Voltmeter from the Open-Circuit or Short-Circuit Tests of a Transformer. It then makes the desired calculations to Provide the Output values for-
 
-OPEN - CIRCUIT TEST                                                                                  SHORT - CIRCUIT TEST
-* Iron Loss(Wi)                                                                                      * Full load Copper Loss(Wcu)
-* Equivalent Exciting Resistance(Ro)                                                                 * Equivalent Resistance(Re)
-* Equivalent Exciting Reactance(Xo)                                                                  * Equivalent  Reactance(Xe)
-* Core-loss(Iw) and Magnetizing(Im) components of Current                                            * Equivalent Impedance(Ze)
-* No load Power Factor(pf)                                                                           * Short circuit Power factor(pf)
+OPEN - CIRCUIT TEST                                                                                 
+* Iron Loss(Wi)                                                                                      
+* Equivalent Exciting Resistance(Ro)                                                                 
+* Equivalent Exciting Reactance(Xo)                                                                  
+* Core-loss(Iw) and Magnetizing(Im) components of Current                                            
+* No load Power Factor(pf)                                                                           
+ 
+ SHORT - CIRCUIT TEST
+* Full load Copper Loss(Wcu)
+* Equivalent Resistance(Re)
+* Equivalent  Reactance(Xe)
+* Equivalent Impedance(Ze)
+* Short circuit Power factor(pf)
